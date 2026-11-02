@@ -1,3 +1,4 @@
+
 # 🌊 Projeto FrontEnd - Monitoramento Hidrológico (Cogmo Technology)
 
 Aplicação FrontEnd desenvolvida em **React** para o monitoramento de estações hidrológicas, exibindo níveis de rios, precipitação recente, gráficos de séries históricas e tabelas de consulta analítica de medições, como parte dos desafios do **Bolsa Futuro Digital (BFD)**.
@@ -39,7 +40,8 @@ Aplicação FrontEnd desenvolvida em **React** para o monitoramento de estaçõe
 ### Diagrama de Classes
 O diagrama de classes abaixo representa o modelo conceitual utilizado no projeto para estruturar as informações das estações e medições hidrológicas.
 
-> ![Diagrama de Classes](./img/diagrama-classes.png) *(substitua pelo nome do arquivo de imagem do seu diagrama)*
+ <img width="2085" height="1635" alt="graph" src="https://github.com/user-attachments/assets/839cd554-04b8-48c3-adc1-3e79ec80413e" />
+
 
 ---
 
