@@ -7,13 +7,13 @@ Aplicação FrontEnd desenvolvida em **React** para o monitoramento de estaçõe
 
 ## 🚀 Deploy da Aplicação
 
-* **FrontEnd (Produção):** [Acesse o projeto na Vercel](https://seu-link-de-deploy-aqui.vercel.app) *(substitua pelo link real)*
+* **FrontEnd (Produção):** [Acesse o projeto na Vercel](https://hydrocogmo.vercel.app/) *(substitua pelo link real)*
 
 ---
 
 ## 📂 Repositórios do Projeto
 
-* **FrontEnd (React):** [Repositório GitHub do Monitoramento Hidrológico](https://github.com/seu-usuario/monitoramento-hidrologico)
+* **FrontEnd (React):** [Repositório GitHub do Monitoramento Hidrológico](https://github.com/silver-ward/monitoramento-hidrologico)
 
 ---
 
