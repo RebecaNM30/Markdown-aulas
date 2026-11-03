@@ -73,3 +73,25 @@ monitoramento-hidrologico/
 ├── .env
 ├── package.json
 └── README.md
+```
+---
+
+---
+
+## 💻 Execução Local
+
+Para executar este projeto em sua máquina localmente, siga os passos abaixo:
+
+```bash
+# Clone este repositório
+git clone [https://github.com/RebecaNM30/monitoramento-hidrologico.git](https://github.com/RebecaNM30/monitoramento-hidrologico.git)
+
+# Entre na pasta do projeto
+cd monitoramento-hidrologico
+
+# Instale as dependências
+npm install
+
+# Inicie o servidor de desenvolvimento
+npm run dev
+```
