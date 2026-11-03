@@ -97,38 +97,13 @@ npm run dev
 ```
 ---
 
-# 👥 Autoria
+## 👥 Autoria
 
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img src="<img width="447" height="370" alt="image" src="https://github.com/user-attachments/assets/dfe4c088-25c8-4d3f-ab8d-d48bd8dcd435" />" width="80" alt="Logo BFD">
-    </td>
-    <td>
-      <strong>Projeto:</strong> Bolsa Futuro Digital (BFD)<br>
-      <strong>Área:</strong> Front-End / Monitoramento Hidrológico e Meteorológico
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://repositorio.ifb.edu.br/communities/497da583-e634-444b-afcc-70473c3196cd![Uploading images.png…]()
-" width="80" alt="Logo IFB">
-    </td>
-    <td>
-      <strong>Instituição:</strong> Instituto Federal de Brasília (IFB) - Campus Taguatinga
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
-      <!-- Caso queira a foto dos autores ou um avatar padrão -->
-      <img src="https://github.com" width="60" style="border-radius: 50%;" alt="Autores">
-    </td>
-    <td>
-      <strong>Autores:</strong> Rebeca Marinho, Eduardo Ribeiro e Leonilson Jedi
-    </td>
-  </tr>
-</table>
-
+| Logo | Informações |
+| :---: | :--- |
+| <img width="100" height="100" alt="bfd-logo png" src="https://github.com/user-attachments/assets/4a0d47ed-bf1f-4f21-9b61-b5a3ddd9425a" />| **Projeto:** Bolsa Futuro Digital (BFD)<br>**Área:** Front-End / Monitoramento Hidrológico e Meteorológico |
+| <img width="100" height="100" alt="ifb-logo jpeg" src="https://github.com/user-attachments/assets/e2c09d46-2785-4d95-9f1c-f2973eb528d3" />| **Instituição:** Instituto Federal de Brasília (IFB) - Campus Taguatinga |
+<img width="100" height="100" alt="hbr-logo jpeg" src="https://github.com/user-attachments/assets/9b890101-7953-4ebd-90de-5a48f352712d" />  |**Realização:** Instituto Hardware BR<br>**Autores:** Rebeca Marinho, Eduardo Ribeiro e Leonilson Jedi |
 ---
 
 # 📝 Considerações Finais
