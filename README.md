@@ -95,3 +95,46 @@ npm install
 # Inicie o servidor de desenvolvimento
 npm run dev
 ```
+---
+
+# 👥 Autoria
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="<img width="447" height="370" alt="image" src="https://github.com/user-attachments/assets/dfe4c088-25c8-4d3f-ab8d-d48bd8dcd435" />" width="80" alt="Logo BFD">
+    </td>
+    <td>
+      <strong>Projeto:</strong> Bolsa Futuro Digital (BFD)<br>
+      <strong>Área:</strong> Front-End / Monitoramento Hidrológico e Meteorológico
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://repositorio.ifb.edu.br/communities/497da583-e634-444b-afcc-70473c3196cd![Uploading images.png…]()
+" width="80" alt="Logo IFB">
+    </td>
+    <td>
+      <strong>Instituição:</strong> Instituto Federal de Brasília (IFB) - Campus Taguatinga
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <!-- Caso queira a foto dos autores ou um avatar padrão -->
+      <img src="https://github.com" width="60" style="border-radius: 50%;" alt="Autores">
+    </td>
+    <td>
+      <strong>Autores:</strong> Rebeca Marinho, Eduardo Ribeiro e Leonilson Jedi
+    </td>
+  </tr>
+</table>
+
+---
+
+# 📝 Considerações Finais
+
+Este projeto demonstra:
+* **Aplicação de conceitos avançados** de ReactJS e componentes visuais interativos.
+* **Integração e visualização** de séries temporais e dados meteorológicos/hidrológicos através de gráficos analíticos (Recharts).
+* **Organização de código** limpa, modular e componentizada seguindo padrões profissionais de mercado.
+* **Documentação estruturada** de arquitetura e modelagem de software para sistemas web.
